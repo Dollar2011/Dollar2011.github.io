@@ -1,0 +1,8 @@
+Origin: dollar repo
+Label: dollar repo
+Suite: stable
+Version: 1.0
+Codename: dollar
+Architectures: iphoneos-arm
+Components: main
+Description: dollar repo
