@@ -429,3 +429,35 @@ Description: File Manager for iOS. Supports iOS 7+
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
 Name: Filza File Manager 
+
+Package: com.cydia00.socialduplicator
+Version: 3.1-2
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//So.deb
+Size: 880242
+MD5sum: 94887ECAFFC829B4B4BE251ED6927B60
+SHA1: 61D043D641622E161A6B7E0D26665F486AE02487
+SHA256: 132D502C60CFA2105EDBAEFA680FAE13056F17C1FE37F1B82F1D0BF63635A095
+Section: Tweaks
+Description: Duplicator for Social Applications!
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
+Name: Social Duplicator
+
+Package: com.cydia00.watusi
+Version: 3.6.4
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//Wa.deb
+Size: 1948780
+MD5sum: 9BDA62F748A5CCAB0FADDFEB6C38FE28
+SHA1: 3370B2E02827DD5900D1089F6EC9ACADF4301E8C
+SHA256: EBED5B2F3FF1588219E50FA8F9B82FC458908948EC2C9CF7F699E56212C10215
+Section: Tweaks
+Description: All in one tweak for WhatsApp Messenger!
+Author: Read Stanton (Decimation) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
+Name: Watusi
