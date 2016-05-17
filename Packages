@@ -8,7 +8,7 @@ Author: TIGI Software
 Section: Utilities
 Depends: firmware (>= 7.0)
 Icon: file:///Applications/Filza.app/Icon.png
-Filename: /debs/Filza.deb
+Filename: ./debs/Filza.deb
 Size: 9240130
 MD5sum: E326A03062F70D9870C1B7F4BAE1B086
 SHA1: 45A4BF7DCD9761F7174B72CB652EDBAC912BB0F9
