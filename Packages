@@ -446,16 +446,16 @@ Author: Read Stanton (Decimation) <decimation001@gmail.com>
 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
 Name: Social Duplicator
 
-Package: com.cydia00.watusi
+Package: com.cydia00.watusi9
 Version: 3.6.4
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//Wa.deb
 Size: 1948780
-MD5sum: 9BDA62F748A5CCAB0FADDFEB6C38FE28
-SHA1: 3370B2E02827DD5900D1089F6EC9ACADF4301E8C
-SHA256: EBED5B2F3FF1588219E50FA8F9B82FC458908948EC2C9CF7F699E56212C10215
+MD5sum: 4FDE355E79611C347B1810FA98A5E6D4
+SHA1: AE47E564F56AE90D174EAA54D1ACCE357608E6B3
+SHA256: C08026F35EB11A184FCCF2C90C4341BB4F4A885E0C5F2E4573F0969291F076CA
 Section: Tweaks
 Description: All in one tweak for WhatsApp Messenger!
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
