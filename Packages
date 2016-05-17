@@ -1,15 +1,15 @@
-Package: com.repo.xarold.com.filza
-Name: Filza File Manager
-Version: 2.0.1-55k
-Architecture: iphoneos-arm
-Description: File Manager for iOS. Supports iOS 7+
-Depiction: http://repo.xarold.com/depiction.php?id=filza
-Author: TIGI Software
-Section: Utilities
-Depends: firmware (>= 7.0)
-Icon: file:///Applications/Filza.app/Icon.png
-Filename: debs//Filza.deb
-Size: 9240130
-MD5sum: E326A03062F70D9870C1B7F4BAE1B086
-SHA1: 45A4BF7DCD9761F7174B72CB652EDBAC912BB0F9
-SHA256: 09F711A6DC2256BAB318B9CF2AF9E822A6F80F68EBCCF053D6BF9CB16C26FCB8
+Package: com.decimation.roboto2014ios9final 
+402 Version: 1.2 
+403 Architecture: iphoneos-arm 
+404 Maintainer: Decimation <decimation001@gmail.com> 
+405 Depends: com.bytafont.bytafont3 
+406 Filename: debs//fonts/com.decimation.roboto2014ios9final.deb 
+407 Size: 20613162 
+408 MD5sum: 7ecb7e74825be1c5c4ebf597a90f3fd7 
+409 SHA1: a733c48d54fb507a51e68322991b8101129977ac 
+410 SHA256: 580a83be4058f6965c5131e8fbc17d4e9adf338b0bfa8957419ddcf264d3ba66 
+411 Section: Fonts 
+412 Description: Google's Roboto 2014 for iOS 9. 
+413 Author: Read Stanton (Decimation) <decimation001@gmail.com> 
+414 Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9 
+415 Name: Roboto 2014 iOS 9 Final
