@@ -6,8 +6,6 @@ Depends: mobilesubstrate
 Filename: debs//Filza.deb
 Size: 20613162
 MD5sum: E326A03062F70D9870C1B7F4BAE1B086
-SHA1: 45A4BF7DCD9761F7174B72CB652EDBAC912BB0F9
-SHA256: 09F711A6DC2256BAB318B9CF2AF9E822A6F80F68EBCCF053D6BF9CB16C26FCB8
 Section: Utilities
 Description: File Manager for iOS. Supports iOS 7+
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
@@ -22,8 +20,6 @@ Depends: mobilesubstrate
 Filename: debs//So.deb
 Size: 880242
 MD5sum: 5FAB0AE36EE005874C83010D62CFBBC9
-SHA1: 599A8169822E04BAF8B85EB70C53325069AB1292
-SHA256: C9C183EA5548C0C7AAE93500BA03D8DA468F878408ECFA0A6BDB5FB36BF6E29F
 Section: Tweaks
 Description: Duplicator for Social Applications!
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
@@ -38,8 +34,6 @@ Depends: mobilesubstrate
 Filename: debs//Wa.deb
 Size: 1036898
 MD5sum: 73AF495510641114692B970718E6029A
-SHA1: E292D979289A8755347770EDDE85D8134F434084
-SHA256: C2B395F0B369E5EEDB9D9932331E229CEC159AB23105D0D7210CF06AC7693BEC
 Section: Tweaks
 Description: All in one tweak for WhatsApp Messenger!
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
