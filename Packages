@@ -2,7 +2,7 @@ Package: com.cydia00.socialduplicator
 Version: 3.1-2 
 Architecture: iphoneos-arm 
 Maintainer: Dollar2011 
-Installed-Size: 560 
+Installed-Size: 160 
 Name: Social Duplicator 
 Section: Tweaks 
 Depends: mobilesubstrate, firmware (>= 7.0) 
@@ -10,7 +10,7 @@ Filename: .///debs/com.cydia00.socialduplicator_3.1-2_iphoneos-arm.deb
 Size: 880242 
 MD5sum: 5fab0ae36ee005874c83010d62cfbbc9 
 Section: Tweaks 
-Description: Duplicator for Social Applications.
+Description: Duplicator for Social Applications. 
 
 Package: com.ps.highgraphics 
 Version: 1.0-3 
