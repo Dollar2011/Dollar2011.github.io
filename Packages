@@ -19,7 +19,7 @@ Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/So.deb
 Size: 880242
-MD5sum: 5FAB0AE36EE005874C83010D62CFBBC9
+MD5sum: 5fab0ae36ee005874c83010d62cfbbc9
 Section: Tweaks
 Description: Duplicator for Social Applications!
 Author: Read Stanton (Decimation) <decimation001@gmail.com>
