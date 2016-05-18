@@ -1,30 +1,16 @@
-Package: com.repo.xarold.com.filza
-Version: 2.0.1-55k
-Architecture: iphoneos-arm
-Maintainer: Decimation <decimation001@gmail.com>
-Depends: mobilesubstrate
-Filename: .///debs/Filza.deb
-Size: 20613162
-MD5sum: E326A03062F70D9870C1B7F4BAE1B086
-Section: Utilities
-Description: File Manager for iOS. Supports iOS 7+
-Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
-Name: Filza File Manager 
-
-Package: com.cydia00.socialduplicator
-Version: 3.1-2
-Architecture: iphoneos-arm
-Maintainer: Decimation <decimation001@gmail.com>
-Depends: mobilesubstrate
-Filename: .///debs/com.cydia00.socialduplicator_3.1-2_iphoneos-arm.deb
-Size: 880242
-MD5sum: 5fab0ae36ee005874c83010d62cfbbc9
-Section: Tweaks
-Description: Duplicator for Social Applications!
-Author: Read Stanton (Decimation) <decimation001@gmail.com>
-Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.roboto2014ios9
-Name: Social Duplicator
+Package: com.cydia00.socialduplicator 
+Version: 3.1-2 
+Architecture: iphoneos-arm 
+Maintainer: Dollar2011 
+Installed-Size: 560 
+Name: Social Duplicator 
+Section: Tweaks 
+Depends: mobilesubstrate, firmware (>= 7.0) 
+Filename: .///debs/com.cydia00.socialduplicator_3.1-2_iphoneos-arm.deb 
+Size: 880242 
+MD5sum: 5fab0ae36ee005874c83010d62cfbbc9 
+Section: Tweaks 
+Description: Duplicator for Social Applications.
 
 Package: com.ps.highgraphics 
 Version: 1.0-3 
