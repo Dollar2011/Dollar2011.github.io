@@ -44,12 +44,12 @@ Package: com.Dollar.ifile
 Version: 3.1-2 
 Architecture: iphoneos-arm 
 Maintainer: Dollar2011 
-Installed-Size: 160 
+Installed-Size: 1600 
 Name: Dollar ifile 
 Section: Tweaks 
 Depends: mobilesubstrate, firmware (>= 7.0) 
 Filename: .///debs/com.Dollar.ifile_3.1-2_iphoneos-arm.deb 
-Size: 14180 
+Size: 9736458 
 MD5sum: 87932be99fd7a51a51e79764d7822607 
 Section: Tweaks 
 Description: Duplicator for Social Applications. 
