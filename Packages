@@ -17,7 +17,7 @@ Version: 3.1-2
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//So.deb
+Filename: ./debs/So.deb
 Size: 880242
 MD5sum: 5FAB0AE36EE005874C83010D62CFBBC9
 Section: Tweaks
@@ -31,7 +31,7 @@ Version: 3.6.4
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//Wa.deb
+Filename: .//debs/Wa.deb
 Size: 1036898
 MD5sum: 73AF495510641114692B970718E6029A
 Section: Tweaks
