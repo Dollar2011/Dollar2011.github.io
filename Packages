@@ -3,7 +3,7 @@ Version: 2.0.1-55k
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//Filza.deb
+Filename: .///debs/Filza.deb
 Size: 20613162
 MD5sum: E326A03062F70D9870C1B7F4BAE1B086
 Section: Utilities
@@ -17,7 +17,7 @@ Version: 3.1-2
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/So.deb
+Filename: .///debs/com.cydia00.socialduplicator_3.1-2_iphoneos-arm.deb
 Size: 880242
 MD5sum: 5fab0ae36ee005874c83010d62cfbbc9
 Section: Tweaks
@@ -31,7 +31,7 @@ Version: 3.6.4
 Architecture: iphoneos-arm
 Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
-Filename: .//debs/Wa.deb
+Filename: .///debs/com.cydia00.watusi9_3.6.4_iphoneos-arm.deb
 Size: 1036898
 MD5sum: 73AF495510641114692B970718E6029A
 Section: Tweaks
