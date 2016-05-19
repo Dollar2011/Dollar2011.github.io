@@ -16,13 +16,13 @@ Package: com.cydia00.watusi9
 Version: 3.6.4 
 Architecture: iphoneos-arm 
 Maintainer: Dollar2011 
-Installed-Size: 560 
+Installed-Size: 5600 
 Name: Watusi 
 Section: Tweaks 
 Depends: mobilesubstrate, firmware (>= 7.0) 
 Filename: .///debs/com.cydia00.watusi9_3.6.4_iphoneos-arm.deb 
-Size: 1036898 
-MD5sum: be22a956ba3fffe1eebcf1636ffbaeee 
+Size: 12349940 
+MD5sum: c8f14ede09b61a28328f112a7abdce5c 
 Section: Tweaks 
 Description: All in one tweak for WhatsApp Messenger. 
 
